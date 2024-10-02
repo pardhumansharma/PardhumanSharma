@@ -1,4 +1,4 @@
-![logo](https://github.com/pardhumansharma/PardhumanSharma/blob/main/1691078672747.jpeg)
+![logo](https://github.com/pardhumansharma/PardhumanSharma/blob/2e075d45cde0ab17ccbaee944ad0fc2bcaaa3c27/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Pardhuman Sharma </h1>
 <h3 align="center">A passionate Software Engineer from Bharat(India)</h3>
 
